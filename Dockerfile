@@ -1,2 +1,2 @@
 #try
-echo "try test docker"
+RUN echo "try test docker"
